@@ -1,0 +1,12 @@
+.glassItem {
+    transition: .2s linear;
+    cursor: pointer;
+}
+
+.glassItem:hover {
+    transform: translateY(-8px);
+}
+
+.glassItem:active {
+    transform: translateY(5px);
+}

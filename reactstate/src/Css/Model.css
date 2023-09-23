@@ -1,0 +1,24 @@
+.model__wrapper {
+    position: relative;
+}
+
+.model__img {
+    position: relative;
+}
+
+.model__glass {
+    position: absolute;
+    width: 180px;
+    height: 70px;
+    top: 24%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.model__desc {
+    position: absolute;
+    bottom: 0;
+    background-color: #feb682;
+    text-align: start;
+    padding: 16px;
+}
